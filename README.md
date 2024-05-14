@@ -81,6 +81,4 @@ Use these files to complete the implementation:
 - `src/components/Footer/index.css`
 </details>
 
-### Resources
-
 
