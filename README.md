@@ -78,7 +78,6 @@ Use these files to complete the implementation:
 - `src/components/Body/index.js`
 - `src/components/Body/index.css`
 - `src/components/Footer/index.js`
-- `src/components/Footer/index.css`
 </details>
 
 
