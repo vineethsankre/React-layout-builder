@@ -89,7 +89,6 @@ Use these files to complete the implementation:
 <br/>
 
 <div style="background-color: #475569; width: 150px; padding: 10px; color: white">Hex: #475569</div>
-<div style="background-color: #e2e8f0; width: 150px; padding: 10px; color: black">Hex: #e2e8f0</div>
 
 </details>
 
