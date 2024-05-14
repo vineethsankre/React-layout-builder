@@ -90,7 +90,6 @@ Use these files to complete the implementation:
 
 <div style="background-color: #475569; width: 150px; padding: 10px; color: white">Hex: #475569</div>
 <div style="background-color: #e2e8f0; width: 150px; padding: 10px; color: black">Hex: #e2e8f0</div>
-<div style="background-color: #f1f5f9; width: 150px; padding: 10px; color: black">Hex: #f1f5f9</div>
 
 </details>
 
