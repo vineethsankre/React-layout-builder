@@ -61,23 +61,4 @@ The app must have the following functionalities
 
 </details>
 
-<details>
-<summary>Implementation Files</summary>
-<br/>
-
-Use these files to complete the implementation:
-
-- `src/App.js`
-- `src/App.css`
-- `src/components/ConfigurationController/index.js`
-- `src/components/ConfigurationController/index.css`
-- `src/components/Layout/index.js`
-- `src/components/Layout/index.css`
-- `src/components/Header/index.js`
-- `src/components/Header/index.css`
-- `src/components/Body/index.js`
-- `src/components/Body/index.css`
-- `src/components/Footer/index.js`
-</details>
-
 
