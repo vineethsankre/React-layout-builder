@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.header-container {
+  background-color: #cbd5e1;
+  height: 100px;
+  padding-top: 15px;
+  text-align: center;
+  margin-left: 80px;
+  margin-right: 80px;
+  margin-top: 40px;
+  align-self: stretch;
+}
+
+.header-heading {
+  font-size: 30px;
+  font-family: 'Roboto';
+  color: #475569;
+}
